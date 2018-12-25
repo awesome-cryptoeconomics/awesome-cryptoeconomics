@@ -1,7 +1,7 @@
 # Awesome-Crypto-Economics
 
 
-Welcome Aboard the Crypto World
+**Welcome Aboard the Crypto World
 
 What's Cryptoeconomics?
 
@@ -11,7 +11,7 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 
 --- 
 
-## All about the Crypto Future
+# All about the Crypto Future
 
 - Cryptography
  
@@ -33,19 +33,19 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 
 --- 
 
-### Favorite Video
+## Favorite Video
 
 
 
 --- 
 
-### Favorite Article
+## Favorite Article
 
 
 
 --- 
 
-### Contributor List
+## Contributor List
 
 
 
