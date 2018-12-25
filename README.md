@@ -13,21 +13,21 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 
 # All about the Crypto Future
 
-- [Cryptography](https://github.com/Awesome-Crypto-Economics/Awesome-Crypto-Economics/blob/master/Cryptography.md)
+- [Cryptography](#11)
  
-- [P2P-Network](https://github.com/Awesome-Crypto-Economics/Awesome-Crypto-Economics/blob/master/P2P-Network.md)
+- [P2P-Network](#12)
    
-- Consensys
+- [Consensys](#13)
   
-- Block Chain
+- [Block Chain](#14)
   
-- Token Economics
+- [Token Economics](#15)
   
-- Governance
+- [Governance](#16)
   
-- Privacy
+- [Privacy](#17)
 
-- Security
+- [Security](#18)
 
 
 
@@ -45,7 +45,7 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 
 --- 
 
-# Cryptography
+<h3 id="11">Cryptography</h3>
 --- 
 ### Brief
 
@@ -56,7 +56,8 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 ### Articles
 
 --- 
-# P2P-Network
+<h3 id="12">P2P-Network</h3>
+
 --- 
 ### Brief
 
@@ -67,8 +68,18 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 ### Articles
 
 --- 
-
-
+<h3 id="13">Consensys</h3>
+--- 
+<h3 id="14">Block Chain</h3>
+---
+<h3 id="15">Token Economics</h3>
+---
+<h3 id="16">Governance</h3>
+---
+<h3 id="17">Privacy</h3>
+---
+<h3 id="18">Security</h3>
+---
 ## Contributor List
 
 
