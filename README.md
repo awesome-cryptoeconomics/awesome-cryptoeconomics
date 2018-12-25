@@ -46,41 +46,61 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 --- 
 
 <h3 id="11">Cryptography</h3>
---- 
+---
+
 ### Brief
 
 ---
+
 ### Tutorial
 
 ---
+
 ### Articles
 
 --- 
+
 <h3 id="12">P2P-Network</h3>
 
 --- 
+
 ### Brief
 
 ---
+
 ### Tutorial
 
 ---
+
 ### Articles
 
 --- 
+
 <h3 id="13">Consensys</h3>
+
 --- 
+
 <h3 id="14">Block Chain</h3>
+
 ---
+
 <h3 id="15">Token Economics</h3>
+
 ---
+
 <h3 id="16">Governance</h3>
+
 ---
+
 <h3 id="17">Privacy</h3>
+
 ---
+
 <h3 id="18">Security</h3>
+
 ---
-## Contributor List
+
+### Contributor List
 
 
 
