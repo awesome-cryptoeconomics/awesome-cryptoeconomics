@@ -17,7 +17,7 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
  
 - [P2P-Network](#12)
    
-- [Consensys](#13)
+- [Consenss](#13)
   
 - [Block Chain](#14)
   
@@ -77,7 +77,7 @@ Articles
 
 --- 
 
-<h3 id="13">Consensys</h3>
+<h3 id="13">Consensus</h3>
 
 --- 
 
