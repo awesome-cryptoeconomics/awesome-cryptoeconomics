@@ -46,17 +46,18 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 --- 
 
 <h3 id="11">Cryptography</h3>
----
-
-### Brief
 
 ---
 
-### Tutorial
+Brief
 
 ---
 
-### Articles
+Tutorial
+
+---
+
+Articles
 
 --- 
 
@@ -64,15 +65,15 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 
 --- 
 
-### Brief
+Brief
 
 ---
 
-### Tutorial
+Tutorial
 
 ---
 
-### Articles
+Articles
 
 --- 
 
@@ -80,7 +81,31 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 
 --- 
 
+Brief
+
+---
+
+Tutorial
+
+---
+
+Articles
+
+--- 
+
 <h3 id="14">Block Chain</h3>
+
+---
+
+Brief
+
+---
+
+Tutorial
+
+---
+
+Articles
 
 ---
 
@@ -88,7 +113,31 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 
 ---
 
+Brief
+
+---
+
+Tutorial
+
+---
+
+Articles
+
+---
+
 <h3 id="16">Governance</h3>
+
+---
+
+Brief
+
+---
+
+Tutorial
+
+---
+
+Articles
 
 ---
 
@@ -96,7 +145,31 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 
 ---
 
+Brief
+
+---
+
+Tutorial
+
+---
+
+Articles
+
+---
+
 <h3 id="18">Security</h3>
+
+---
+
+Brief
+
+---
+
+Tutorial
+
+---
+
+Articles
 
 ---
 
