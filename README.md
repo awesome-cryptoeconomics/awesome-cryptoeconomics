@@ -13,9 +13,9 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 
 # All about the Crypto Future
 
-- Cryptography
+- [Cryptography](https://github.com/Awesome-Crypto-Economics/Awesome-Crypto-Economics/blob/master/Cryptography.md)
  
-- Awesome-Crypto-Economics/P2P-Network    
+- [P2P-Network](https://github.com/Awesome-Crypto-Economics/Awesome-Crypto-Economics/blob/master/P2P-Network.md)
    
 - Consensys
   
