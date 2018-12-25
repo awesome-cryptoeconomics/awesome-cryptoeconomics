@@ -1,7 +1,7 @@
 # Awesome-Crypto-Economics
 
 
-**Welcome Aboard the Crypto World
+**Welcome Aboard the Crypto World**
 
 What's Cryptoeconomics?
 
