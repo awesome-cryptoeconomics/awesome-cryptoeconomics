@@ -9,9 +9,9 @@ Some of our friends say Cryptoeconomics approaches combine Cryptography and Econ
 
 Every sigle part in the cryptoeconomics is meaningful for our technology improvement. For example, without the asymmetric cryptography, we can't achieve a better P2P network. There's more possible waiting for our disclose, and here's how to participate in this Project.
 
----
+--- 
 
-##All about the Crypto Future
+## All about the Crypto Future
 
 - Cryptography
  
@@ -31,25 +31,25 @@ Every sigle part in the cryptoeconomics is meaningful for our technology improve
 
 
 
----
+--- 
 
-###Favorite Video
-
-
-
----
-
-###Favorite Article
+### Favorite Video
 
 
 
----
+--- 
 
-###Contributor List
+### Favorite Article
 
 
 
----
+--- 
+
+### Contributor List
+
+
+
+--- 
 
 
 
