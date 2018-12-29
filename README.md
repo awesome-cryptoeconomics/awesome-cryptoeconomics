@@ -70,6 +70,8 @@ Brief
 ---
 
 Tutorial
+[Peer to peer](https://en.wikipedia.org/wiki/Peer-to-peer)
+[Distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 
 ---
 
