@@ -71,7 +71,11 @@ Articles
 - [Public-key (asymmetric) Cryptography using GPG](https://hackernoon.com/public-key-asymmetric-cryptography-using-gpg-5a8d914c9bca)
 
 - [How does RSA work?](https://hackernoon.com/how-does-rsa-work-f44918df914b)
+- [BLS signatures: better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
 
+- [How Schnorr signatures may improve Bitcoin](https://medium.com/cryptoadvance/how-schnorr-signatures-may-improve-bitcoin-91655bcb4744)
+
+- [ECDSA is not that bad: two-party signing without Schnorr or BLS](https://medium.com/cryptoadvance/ecdsa-is-not-that-bad-two-party-signing-without-schnorr-or-bls-1941806ec36f)
 
 ---
 
