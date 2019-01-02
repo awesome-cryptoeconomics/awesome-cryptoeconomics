@@ -54,13 +54,52 @@ Brief
 
 ---
 
-Tutorial
+Articles
+
+- [Explaining public-key cryptography to non-geeks](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5)
+
+- [What is the math behind elliptic curve cryptography?](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
+
+[How Cryptography Redefines Private Property](https://medium.com/@hugonguyen/how-cryptography-redefines-private-property-34cd93d86036)
+
+[Introduction to zk-SNARKs with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
+
+[zksnarks and blockchain scalability](https://hackernoon.com/zksnarks-and-blockchain-scalability-af85e350a93a)
+
+[Pretty Good Cryptography](https://hackernoon.com/pretty-good-cryptography-2b11959c397c)
+
+[Public-key (asymmetric) Cryptography using GPG](https://hackernoon.com/public-key-asymmetric-cryptography-using-gpg-5a8d914c9bca)
+
+[How does RSA work?
+
 
 ---
 
-Articles
+Videos
+
+[Cryptography For Beginners](https://www.youtube.com/watch?v=cqgtdkURzTE)
+
+[Lecture 1: Introduction to Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k)
+
+[Asymmetric encryption - Simply explained](https://www.youtube.com/watch?v=AQDCe585Lnc)
+
+[Public Key Cryptography: RSA Encryption Algorithm](https://www.youtube.com/watch?v=wXB-V_Keiu8)
+
+[Cryptography: Crash Course Computer Science #33](https://www.youtube.com/watch?v=jhXCTbFnK8o)
+
+[Cryptography for Cryptocurrency (covers Ethereum and Bitcoin)](https://www.youtube.com/watch?v=Fyqtl7eGQZY)
+
+[Bitcoin - Cryptographic hash function
 
 --- 
+
+Lessons
+
+[crypto-textbook](http://www.crypto-textbook.com/)
+
+[Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
+
+---
 
 <h3 id="12">P2P-Network</h3>
 
