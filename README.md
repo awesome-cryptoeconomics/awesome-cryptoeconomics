@@ -167,15 +167,25 @@ Articles
 
 Brief
 
----
-
-Tutorial
+- [The Token Economy](https://thecontrol.co/the-token-economy-81becd26b9de) Understanding the power of network ownership effects
 
 ---
 
 Articles
 
+- [A beginner’s guide to Ethereum tokens](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b) This beginner’s guide should help those who are new to digital assets to understand Ethereum tokens at a high level and how they are different than Ethereum.
+
+- [The perfect token sale structure](https://blog.coinbase.com/the-perfect-token-sale-structure-63c169789491) It's about the perfect structure of the token sale
+
+- [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
+
+- [Crypto Narrative Watch: Crypto Winter Edition](https://tokeneconomy.co/crypto-narrative-watch-crypto-winter-edition-bf1cf584def2) 
+
 ---
+
+Videos
+
+- [Token Economies](https://www.youtube.com/watch?v=XatEoU36U-o) Explained the workings of the blockchain, tokens, distributed markets and token investments.
 
 <h3 id="16">Governance</h3>
 
