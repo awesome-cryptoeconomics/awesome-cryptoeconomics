@@ -18,9 +18,11 @@ Every sigle part in Cryptoeconomics is meaningful for our technology improvement
  
 - [P2P-Network](#12)
    
-- [Consenss](#13)
+- [Consensus](#13)
+
+- [Mining](#19)
   
-- [Block Chain](#14)
+- [Blockchain](#14)
   
 - [Token Economics](#15)
   
@@ -29,6 +31,8 @@ Every sigle part in Cryptoeconomics is meaningful for our technology improvement
 - [Privacy](#17)
 
 - [Security](#18)
+
+- [dApp](#20)
 
 
 --- 
@@ -160,7 +164,14 @@ Videos
 
 ---
 
-<h3 id="14">Block Chain</h3>
+<h3 id="19">Mining</h3>
+
+
+
+
+---
+
+<h3 id="14">Blockchain</h3>
 
 ---
 
@@ -247,6 +258,14 @@ Tutorial
 ---
 
 Articles
+
+---
+
+<h3 id="20">dApp</h3>
+
+
+
+
 
 ---
 
