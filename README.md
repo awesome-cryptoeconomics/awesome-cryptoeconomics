@@ -35,8 +35,6 @@ Every sigle part in Cryptoeconomics is meaningful for our technology improvement
 
 <h3 id="11">Cryptography</h3>
 
----
-
 Brief
 
 To achieve a well-development crypto economy, we need lots of factor. And Cryptography is the most important factor for the entire industry. The most important thing in the blockchain is the Trust, and the trust is from the algorithm, so that we can bring something important thing to the blockchain.
@@ -118,19 +116,43 @@ Articles
 
 <h3 id="13">Consensus</h3>
 
---- 
-
 Brief
-
----
-
-Tutorial
 
 ---
 
 Articles
 
+- [ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms](https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f)
+
+- [The Problem with Proof of Work](https://medium.com/@OhGodAGirl/the-problem-with-proof-of-work-da9f0512dad9)
+
+- [On consensus](https://medium.com/@jcliff/on-consensus-e47920cd8914)
+
+- [How Does Distributed Consensus Work?](https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
+
+- [A Hitchhiker’s Guide to Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
+
+- [Frontend in 2018: More consensus, less complexity](https://blog.logrocket.com/what-im-looking-for-from-frontend-in-2018-2f1de300b548)
+
+- [Consensus Compare: Casper vs. Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae)
+
+- [Consensus in Blockchain Systems. In Short.](https://medium.com/@chrshmmmr/consensus-in-blockchain-systems-in-short-691fc7d1fefe)
+
+Understanding Blockchain Fundamentals
+
+- [Part 1: Byzantine Fault Tolerance](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419)
+
+- [Part 2: Proof of Work & Proof of Stake](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-2-proof-of-work-proof-of-stake-b6ae907c7edb)
+
+- [Part 3: Delegated Proof of Stake](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-3-delegated-proof-of-stake-b385a6b92ef)
+
 --- 
+
+Videos
+
+
+
+---
 
 <h3 id="14">Block Chain</h3>
 
