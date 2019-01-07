@@ -31,19 +31,6 @@ Every sigle part in Cryptoeconomics is meaningful for our technology improvement
 - [Security](#18)
 
 
-
---- 
-
-## Favorite Video
-
-
-
---- 
-
-## Favorite Article
-
-
-
 --- 
 
 <h3 id="11">Cryptography</h3>
