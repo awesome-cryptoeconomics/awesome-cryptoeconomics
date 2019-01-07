@@ -150,7 +150,13 @@ Understanding Blockchain Fundamentals
 
 Videos
 
-
+- [Protocol and Consensus: A High Level Overview](https://www.youtube.com/watch?v=fgSvXFZ1GuU)
+- [What is Consensus: Rules without Rulers](https://www.youtube.com/watch?v=2tqo7PX5Pyc)
+- [Consensus and Mining on the Blockchain](https://www.youtube.com/watch?v=2HcmwfVzPEU)
+- [Bitcoin - Proof of work](https://www.youtube.com/watch?v=9V1bipPkCTU)
+- [Consensus Algorithms, Blockchain Technology and Bitcoin UCL - by Andreas M. Antonopoulos](https://www.youtube.com/watch?v=fw3WkySh_Ho)
+- [Proof of Work vs Proof of Stake - Clearly Explained](https://www.youtube.com/watch?v=y_hEezRilCY)
+- [Proof of Work vs Proof of Stake - Explained for Beginners](https://www.youtube.com/watch?v=5x1X_mdo2mY)
 
 ---
 
