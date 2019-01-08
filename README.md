@@ -179,17 +179,15 @@ Videos
 
 <h3 id="14">Blockchain</h3>
 
----
-
 Brief
 
----
-
-Tutorial
+Blockchain provides an immutable & decentralized ledger.
 
 ---
 
 Articles
+
+[A Beginner’s Guide to Blockchain](https://hackernoon.com/a-beginners-guide-to-blockchain-d04266844e7)
 
 ---
 
