@@ -276,7 +276,18 @@ Articles
 
 <h3 id="20">Adoption</h3>
 
+Brief
+
+
+
+Articles
+
+[We already know blockchain’s killer apps](https://hackernoon.com/we-already-know-blockchains-killer-apps-f2d443eba35)
+
+Adoption
+
 [Maker Dai](https://makerdao.com/dai/)
+
 
 
 
@@ -285,7 +296,9 @@ Articles
 
 ### Contributor List
 
-
+kryptohenry
+Aimeedeer
+Clarecoco
 
 --- 
 
