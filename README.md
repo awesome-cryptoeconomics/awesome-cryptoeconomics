@@ -32,7 +32,7 @@ Every sigle part in Cryptoeconomics is meaningful for our technology improvement
 
 - [Security](#18)
 
-- [dApp](#20)
+- [Adoption](#20)
 
 
 --- 
@@ -187,7 +187,16 @@ Blockchain provides an immutable & decentralized ledger.
 
 Articles
 
-[A Beginner’s Guide to Blockchain](https://hackernoon.com/a-beginners-guide-to-blockchain-d04266844e7)
+- [A Beginner’s Guide to Blockchain](https://hackernoon.com/a-beginners-guide-to-blockchain-d04266844e7)
+- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [Monero Research](https://ww.getmonero.org/resources/research-lab/)
+- [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+
+Videos
+
+- [Blockchain Technology Explained (2 Hour Course)](https://www.youtube.com/watch?v=qOVAbKKSH10)
+- [How does a blockchain work - Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+
 
 ---
 
@@ -265,8 +274,9 @@ Articles
 
 ---
 
-<h3 id="20">dApp</h3>
+<h3 id="20">Adoption</h3>
 
+[Maker Dai](https://makerdao.com/dai/)
 
 
 
