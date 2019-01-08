@@ -122,6 +122,12 @@ Articles
 
 Brief
 
+Before the blockchain technology, we use Byzantine fault tolerance (BFT) on distributed computing systems, and we have Practical Byzantine fault tolerance (PBFT) at 1999, which provides high-performance Byzantine state machine replication, processing thousands of requests per second with sub-millisecond increases in latency.
+
+One example of BFT in use is bitcoin, a peer-to-peer digital cash system. The bitcoin network works in parallel to generate a blockchain with proof-of-work allowing the system to overcome Byzantine failures and reach a coherent global view of the system's state.
+
+And that is the Consensus when we have a coherent global state in one system. There's more than one way to reach consensus, such like PoW/PoS/DPoS, no matter what kind of ways, we use encryption algorithm to protect the procedure.
+
 ---
 
 Articles
