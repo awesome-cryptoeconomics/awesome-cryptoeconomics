@@ -279,14 +279,11 @@ Tutorial
 
 Articles
 
-Privacy on the blockchain
-https://hackernoon.com/privacy-on-the-blockchain-7549b50160ec
+[Privacy on the blockchain](https://hackernoon.com/privacy-on-the-blockchain-7549b50160ec)
 
-How the Bitcoin protocol actually works
-http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
+[How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 
-Keepers — Workers that Maintain Blockchain Networks
-https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66
+[Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
 
 
 ---
