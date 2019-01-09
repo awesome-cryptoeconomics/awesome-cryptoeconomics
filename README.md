@@ -108,13 +108,30 @@ Brief
 ---
 
 Tutorial
+
 [Peer to peer](https://en.wikipedia.org/wiki/Peer-to-peer)  
 
 [Distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 
+[Kazaa](https://en.wikipedia.org/wiki/Kazaa)
+
+[BitTorrent -- The Original BitTorrent Client](https://www.bittorrent.com/)
+
 ---
 
 Articles
+
+---
+
+Videos
+
+[Forget Cloud: The Peer-to-Peer Web](https://www.youtube.com/watch?v=ZrUHx-bnfZI)
+
+[Peer-to-peer (P2P) Networks - Basic Algorithms](https://www.youtube.com/watch?v=kXyVqk3EbwE&list=PL_rf_lwCV7MDXeXLobnsP2uYeiv07AVKV)
+
+[Lecture: P2P Networking in Bitcoin and tinybitcoinpeer.py](https://www.youtube.com/watch?v=seGwYw2u3TY)
+
+[Peer-to-Peer Networking on Ethereum](https://www.youtube.com/watch?v=RA7wPpyUGJw)
 
 --- 
 
