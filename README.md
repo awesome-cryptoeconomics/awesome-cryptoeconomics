@@ -15,23 +15,14 @@ Every sigle part in Cryptoeconomics is meaningful for our technology improvement
 # All about the Crypto Future
 
 - [Cryptography](#11)
- 
 - [P2P-Network](#12)
-   
 - [Consensus](#13)
-
-- [Mining](#19)
-  
-- [Blockchain](#14)
-  
-- [Token Economics](#15)
-  
-- [Governance](#16)
-  
+- [Mining](#19) 
+- [Blockchain](#14)  
+- [Token Economics](#15)  
+- [Governance](#16)  
 - [Privacy](#17)
-
 - [Security](#18)
-
 - [Adoption](#20)
 
 
@@ -50,25 +41,15 @@ Thats the reason we always say: "Don't Trust, Verify"
 Articles
 
 - [Explaining public-key cryptography to non-geeks](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5)
-
 - [What is the math behind elliptic curve cryptography?](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
-
 - [How Cryptography Redefines Private Property](https://medium.com/@hugonguyen/how-cryptography-redefines-private-property-34cd93d86036)
-
 - [Introduction to zk-SNARKs with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
-
 - [zksnarks and blockchain scalability](https://hackernoon.com/zksnarks-and-blockchain-scalability-af85e350a93a)
-
 - [Pretty Good Cryptography](https://hackernoon.com/pretty-good-cryptography-2b11959c397c)
-
 - [Public-key (asymmetric) Cryptography using GPG](https://hackernoon.com/public-key-asymmetric-cryptography-using-gpg-5a8d914c9bca)
-
 - [How does RSA work?](https://hackernoon.com/how-does-rsa-work-f44918df914b)
-
 - [How Schnorr signatures may improve Bitcoin](https://medium.com/cryptoadvance/how-schnorr-signatures-may-improve-bitcoin-91655bcb4744)
-
 - [BLS signatures: better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
-
 - [ECDSA is not that bad: two-party signing without Schnorr or BLS](https://medium.com/cryptoadvance/ecdsa-is-not-that-bad-two-party-signing-without-schnorr-or-bls-1941806ec36f)
 
 ---
@@ -76,17 +57,11 @@ Articles
 Videos
 
 - [Cryptography For Beginners](https://www.youtube.com/watch?v=cqgtdkURzTE)
-
 - [Lecture 1: Introduction to Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k)
-
 - [Asymmetric encryption - Simply explained](https://www.youtube.com/watch?v=AQDCe585Lnc)
-
 - [Public Key Cryptography: RSA Encryption Algorithm](https://www.youtube.com/watch?v=wXB-V_Keiu8)
-
 - [Cryptography: Crash Course Computer Science #33](https://www.youtube.com/watch?v=jhXCTbFnK8o)
-
 - [Cryptography for Cryptocurrency (covers Ethereum and Bitcoin)](https://www.youtube.com/watch?v=Fyqtl7eGQZY)
-
 - [Bitcoin - Cryptographic hash function](https://www.youtube.com/watch?v=0WiTaBI82Mc)
 
 --- 
@@ -94,7 +69,6 @@ Videos
 Lessons
 
 - [crypto-textbook](http://www.crypto-textbook.com/)
-
 - [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
 
 ---
@@ -110,34 +84,26 @@ Brief
 Tutorial
 
 [Peer to peer](https://en.wikipedia.org/wiki/Peer-to-peer)  
-
 [Distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
-
 [Kazaa](https://en.wikipedia.org/wiki/Kazaa)
-
 [BitTorrent -- The Original BitTorrent Client](https://www.bittorrent.com/)
 
 ---
 
 Articles
 
-[Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
-
-[Why Decentralization Matter](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e)
-
-[A Guide to Building Your First Decentralized Application](https://www.youtube.com/watch?v=gSQXq2_j-mw&t=3s)
+- [Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
+- [Why Decentralization Matter](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e)
+- [A Guide to Building Your First Decentralized Application](https://www.youtube.com/watch?v=gSQXq2_j-mw&t=3s)
  
 ---
 
 Videos
 
-[Forget Cloud: The Peer-to-Peer Web](https://www.youtube.com/watch?v=ZrUHx-bnfZI)
-
-[Peer-to-peer (P2P) Networks - Basic Algorithms](https://www.youtube.com/watch?v=kXyVqk3EbwE&list=PL_rf_lwCV7MDXeXLobnsP2uYeiv07AVKV)
-
-[Lecture: P2P Networking in Bitcoin and tinybitcoinpeer.py](https://www.youtube.com/watch?v=seGwYw2u3TY)
-
-[Peer-to-Peer Networking on Ethereum](https://www.youtube.com/watch?v=RA7wPpyUGJw)
+- [Forget Cloud: The Peer-to-Peer Web](https://www.youtube.com/watch?v=ZrUHx-bnfZI)
+- [Peer-to-peer (P2P) Networks - Basic Algorithms](https://www.youtube.com/watch?v=kXyVqk3EbwE&list=PL_rf_lwCV7MDXeXLobnsP2uYeiv07AVKV)
+- [Lecture: P2P Networking in Bitcoin and tinybitcoinpeer.py](https://www.youtube.com/watch?v=seGwYw2u3TY)
+- [Peer-to-Peer Networking on Ethereum](https://www.youtube.com/watch?v=RA7wPpyUGJw)
 
 --- 
 
@@ -156,27 +122,18 @@ And that is the Consensus when we have a coherent global state in one system. Th
 Articles
 
 - [ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms](https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f)
-
 - [The Problem with Proof of Work](https://medium.com/@OhGodAGirl/the-problem-with-proof-of-work-da9f0512dad9)
-
 - [On consensus](https://medium.com/@jcliff/on-consensus-e47920cd8914)
-
 - [How Does Distributed Consensus Work?](https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95)
-
 - [A Hitchhiker’s Guide to Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
-
 - [Frontend in 2018: More consensus, less complexity](https://blog.logrocket.com/what-im-looking-for-from-frontend-in-2018-2f1de300b548)
-
 - [Consensus Compare: Casper vs. Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae)
-
 - [Consensus in Blockchain Systems. In Short.](https://medium.com/@chrshmmmr/consensus-in-blockchain-systems-in-short-691fc7d1fefe)
 
 Understanding Blockchain Fundamentals
 
 - [Part 1: Byzantine Fault Tolerance](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419)
-
 - [Part 2: Proof of Work & Proof of Stake](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-2-proof-of-work-proof-of-stake-b6ae907c7edb)
-
 - [Part 3: Delegated Proof of Stake](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-3-delegated-proof-of-stake-b385a6b92ef)
 
 --- 
@@ -279,11 +236,11 @@ Tutorial
 
 Articles
 
-[Privacy on the blockchain](https://hackernoon.com/privacy-on-the-blockchain-7549b50160ec)
+- [Privacy on the blockchain](https://hackernoon.com/privacy-on-the-blockchain-7549b50160ec)
 
-[How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
+- [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 
-[Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
+- [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
 
 
 ---
