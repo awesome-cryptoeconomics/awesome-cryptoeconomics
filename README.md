@@ -121,6 +121,12 @@ Tutorial
 
 Articles
 
+[Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
+
+[Why Decentralization Matter](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e)
+
+[A Guide to Building Your First Decentralized Application](https://www.youtube.com/watch?v=gSQXq2_j-mw&t=3s)
+ 
 ---
 
 Videos
@@ -273,6 +279,16 @@ Tutorial
 
 Articles
 
+Privacy on the blockchain
+https://hackernoon.com/privacy-on-the-blockchain-7549b50160ec
+
+How the Bitcoin protocol actually works
+http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
+
+Keepers — Workers that Maintain Blockchain Networks
+https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66
+
+
 ---
 
 <h3 id="18">Security</h3>
@@ -288,6 +304,10 @@ Tutorial
 ---
 
 Articles
+
+A brief history of Bitcoin hacks and frauds
+https://arstechnica.com/tech-policy/2017/12/a-brief-history-of-bitcoin-hacks-and-frauds/
+
 
 ---
 
