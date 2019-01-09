@@ -312,27 +312,28 @@ https://arstechnica.com/tech-policy/2017/12/a-brief-history-of-bitcoin-hacks-and
 
 Brief
 
-
+This is the early stage for crypto industry. Base on blockchain 1.0/2.0, more possiblities are coming, with more government trying to adopt and recognize this improvement. There's still some obstacles on the way, sometimes we compromise, sometimes we have to build a bridge, and here's some info for you to understand the difficulties currently.
 
 Articles
 
-[We already know blockchain’s killer apps](https://hackernoon.com/we-already-know-blockchains-killer-apps-f2d443eba35)
+- [We already know blockchain’s killer apps](https://hackernoon.com/we-already-know-blockchains-killer-apps-f2d443eba35)
+- [Blockchain Adoption in the Energy Sector — on a Massive Scale](https://medium.com/@social_72385/blockchain-adoption-in-the-energy-sector-on-a-massive-scale-a71c490be377)
+- [Blockchain Adoption and Digital Privacy](https://medium.com/mit-cryptoeconomics-lab/blockchain-adoption-and-digital-privacy-b94210122021)
+- [Blockchain Adoption: How Close Are We Really?](https://www.forbes.com/sites/luuloi/2018/01/26/blockchain-adoption-how-close-are-we-really/#6cf637fad9dc)
+- [Blockchain's adoption in IoT: The challenges, and a way forward](https://www.sciencedirect.com/science/article/pii/S1084804518303473)
+- [Europe Is a Leader in Blockchain Adoption](https://www.entrepreneur.com/article/322313)
+- [the bumpy ride to blockchain adoption](https://medium.com/altcoin-magazine/9-big-obstacles-to-mass-adoption-of-blockchain-technology-5b9b82558644)
+- [9 Big Obstacles to Mass Adoption of Blockchain Technology](https://medium.com/altcoin-magazine/9-big-obstacles-to-mass-adoption-of-blockchain-technology-5b9b82558644)
+
 
 Adoption
 
-[Maker Dai](https://makerdao.com/dai/)
+- [Maker Dai - stable coin](https://makerdao.com/dai/)
+- [0x Project - decentralized exchange](https://blog.0xproject.com/)
 
 
 
 
-
----
-
-### Contributor List
-
-kryptohenry
-Aimeedeer
-Clarecoco
 
 --- 
 
