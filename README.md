@@ -58,7 +58,7 @@ Videos
 
 - [Cryptography For Beginners](https://www.youtube.com/watch?v=cqgtdkURzTE)
 - [Lecture 1: Introduction to Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k)
-- [Asymmetric encryption - Simply explained](https://www.youtube.com/watch?v=AQDCe585Lnc)
+- [Introduction to Cryptoeconomics - Vitalik Buterin](https://www.youtube.com/watch?v=pKqdjaH1dRo)
 - [Public Key Cryptography: RSA Encryption Algorithm](https://www.youtube.com/watch?v=wXB-V_Keiu8)
 - [Cryptography: Crash Course Computer Science #33](https://www.youtube.com/watch?v=jhXCTbFnK8o)
 - [Cryptography for Cryptocurrency (covers Ethereum and Bitcoin)](https://www.youtube.com/watch?v=Fyqtl7eGQZY)
@@ -95,6 +95,8 @@ Articles
 - [Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
 - [Why Decentralization Matter](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e)
 - [A Guide to Building Your First Decentralized Application](https://www.youtube.com/watch?v=gSQXq2_j-mw&t=3s)
+- [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
+- [The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
  
 ---
 
@@ -171,6 +173,7 @@ Articles
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Monero Research](https://ww.getmonero.org/resources/research-lab/)
 - [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+- [The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics](https://medium.com/cryptoeconomics-australia/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4)
 
 Videos
 
@@ -220,6 +223,8 @@ Tutorial
 
 Articles
 
+- [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
+
 ---
 
 <h3 id="17">Privacy</h3>
@@ -227,6 +232,8 @@ Articles
 ---
 
 Brief
+
+Privacy in an open society requires anonymous transaction systems.
 
 ---
 
@@ -255,12 +262,15 @@ Brief
 
 Tutorial
 
+- [Understanding Crypto-Economic Security through Game Theory](https://blockchainatberkeley.blog/understanding-crypto-economic-security-through-game-theory-526e810c7736)
+
 ---
 
 Articles
 
-A brief history of Bitcoin hacks and frauds
-https://arstechnica.com/tech-policy/2017/12/a-brief-history-of-bitcoin-hacks-and-frauds/
+- [A brief history of Bitcoin hacks and frauds](https://arstechnica.com/tech-policy/2017/12/a-brief-history-of-bitcoin-hacks-and-frauds/)
+
+- [How to secure your digital currency](https://blog.coinbase.com/how-to-secure-your-digital-currency-4f63539837d0)
 
 
 ---
