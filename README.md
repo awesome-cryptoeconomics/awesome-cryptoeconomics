@@ -131,6 +131,7 @@ Articles
 - [Frontend in 2018: More consensus, less complexity](https://blog.logrocket.com/what-im-looking-for-from-frontend-in-2018-2f1de300b548)
 - [Consensus Compare: Casper vs. Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae)
 - [Consensus in Blockchain Systems. In Short.](https://medium.com/@chrshmmmr/consensus-in-blockchain-systems-in-short-691fc7d1fefe)
+- [A Guide to 99% Fault Tolerant Consensus](https://vitalik.ca/general/2018/08/07/99_fault_tolerant.html)
 
 Understanding Blockchain Fundamentals
 
@@ -224,6 +225,7 @@ Tutorial
 Articles
 
 - [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
+- [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html)
 
 ---
 
@@ -242,6 +244,8 @@ Tutorial
 ---
 
 Articles
+
+- [Privacy on the blockchain by Vitalik Buterin](https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/)
 
 - [Privacy on the blockchain](https://hackernoon.com/privacy-on-the-blockchain-7549b50160ec)
 
@@ -263,6 +267,9 @@ Brief
 Tutorial
 
 - [Understanding Crypto-Economic Security through Game Theory](https://blockchainatberkeley.blog/understanding-crypto-economic-security-through-game-theory-526e810c7736)
+- [STARKs, Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
+- [STARKs, Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
+- [Engineering Security Through Coordination Problems](https://vitalik.ca/general/2017/05/08/coordination_problems.html)
 
 ---
 
@@ -272,7 +279,9 @@ Articles
 
 - [How to secure your digital currency](https://blog.coinbase.com/how-to-secure-your-digital-currency-4f63539837d0)
 
+- [Ethereum: Signing and Validating](https://medium.com/@angellopozo/ethereum-signing-and-validating-13a2d7cb0ee3)
 
+- [Keepers: workers that maintain blockchain networks](https://a16z.com/2018/02/10/crypto-readings-resources/)
 ---
 
 <h3 id="20">Adoption</h3>
