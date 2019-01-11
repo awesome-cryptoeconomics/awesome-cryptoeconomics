@@ -155,8 +155,44 @@ Videos
 
 <h3 id="19">Mining</h3>
 
+Brief
 
+Bitcoin mining is accomplished by running SHA256 double round hash verification processes in order to validate Bitcoin transactions and provide the requisite security for the public ledger of the Bitcoin network. 
 
+---
+
+Articles
+
+- [What is Bitcoin Mining?](https://www.weusecoins.com/en/mining-guide/)A basic article introducing Bitcoin Mining with video and pictures.
+- [Mining Centralization Scenarios](https://medium.com/@jimmysong/mining-centralization-scenarios-b74102adbd36)Describe some Scenarios of Mining Centralization
+- [Bitcoin Mining Guide - Getting started with Bitcoin mining](https://www.bitcoinmining.com/getting-started/)Detailed the steps for bitcoin mining
+- [The State of Cryptocurrency Mining](https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b)An article about the whole mining industry. 
+- [Decoding the enigma of Bitcoin Mining — Part I : Mechanism](https://medium.com/all-things-ledger/decoding-the-enigma-of-bitcoin-mining-f8b2697bc4e2)An Introduction of Bitcoin Mining through PoW
+- [The Bitcoin Mining Network](https://coinshares.co.uk/wp-content/uploads/2018/11/Mining-Whitepaper-Final.pdf)A paper about mining Trends, Marginal Creation Cost, Electricity Consumption & Sources 
+- [An Honest Explanation of Price, Hashrate & Bitcoin Mining Network Dynamics](https://medium.com/coinshares/an-honest-explanation-of-price-hashrate-bitcoin-mining-network-dynamics-f820d6218bdf)
+- [Beware of Lazy Research: Let’s Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance](https://medium.com/coinshares/beware-of-lazy-research-c828c900b7d5)
+- [A Introduction of ethereum mining](http://ethdocs.org/en/latest/mining.html)
+- [Why Ethereum should adjust algo on next planned Hardfork? From a Miner’s perspective](https://medium.com/@bitsbetrippin/why-ethereum-should-adjust-algo-on-next-planned-hardfork-from-a-miners-perspective-aa0afeef05b9)Miner's influence on the hardfork.
+
+---
+
+Webside of Tools
+
+<https://www.blockchain.com/btc/block-height/420000>
+<https://btc.com/stats/pool?pool_mode=month3>
+<https://pool.bitcoin.com/en/>
+
+---
+
+Videos
+- [Blockchain Basics Explained - Hashes with Mining and Merkle trees](https://www.youtube.com/watch?v=lik9aaFIsl4)
+- [Probability in Bitcoin Mining: The Hashing Function](https://www.youtube.com/watch?v=mMxkxwPSfvo)
+- [What Bitcoin Miners Actually Do](https://www.youtube.com/watch?v=TD09UhjIeK8)
+- [Bitcoin Mining Explained](https://www.youtube.com/watch?v=iyq4od8MBoE)
+- [Blockchain tutorial 24: Blockchain and miners](https://www.youtube.com/watch?v=s7-8a71KgT4)a video who explains bitcoin and miners so clearly
+- [Noob's Guide To Bitcoin Mining - Super Easy & Simple](https://www.youtube.com/watch?v=Q5hfr5poLl0)
+- [How to start Bitcoin mining for beginners (SUPER EASY) - ULTIMATE GUIDE](https://www.youtube.com/watch?v=lAW5fqkL-Fo)
+- [How Much Can You Make Mining Bitcoin With 6X 1080 Ti Beginners Guide](https://www.youtube.com/watch?v=woxKtAnmwEY)
 
 ---
 
@@ -175,6 +211,8 @@ Articles
 - [Monero Research](https://ww.getmonero.org/resources/research-lab/)
 - [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
 - [The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics](https://medium.com/cryptoeconomics-australia/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4)
+
+---
 
 Videos
 
