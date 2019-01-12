@@ -163,24 +163,23 @@ Bitcoin mining is accomplished by running SHA256 double round hash verification 
 
 Articles
 
-- [What is Bitcoin Mining?](https://www.weusecoins.com/en/mining-guide/)A basic article introducing Bitcoin Mining with video and pictures.
-- [Mining Centralization Scenarios](https://medium.com/@jimmysong/mining-centralization-scenarios-b74102adbd36)Describe some Scenarios of Mining Centralization
-- [Bitcoin Mining Guide - Getting started with Bitcoin mining](https://www.bitcoinmining.com/getting-started/)Detailed the steps for bitcoin mining
-- [The State of Cryptocurrency Mining](https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b)An article about the whole mining industry. 
-- [Decoding the enigma of Bitcoin Mining — Part I : Mechanism](https://medium.com/all-things-ledger/decoding-the-enigma-of-bitcoin-mining-f8b2697bc4e2)An Introduction of Bitcoin Mining through PoW
-- [The Bitcoin Mining Network](https://coinshares.co.uk/wp-content/uploads/2018/11/Mining-Whitepaper-Final.pdf)A paper about mining Trends, Marginal Creation Cost, Electricity Consumption & Sources 
+- [What is Bitcoin Mining?](https://www.weusecoins.com/en/mining-guide/) A basic article introducing Bitcoin Mining with video and pictures.
+- [Mining Centralization Scenarios](https://medium.com/@jimmysong/mining-centralization-scenarios-b74102adbd36) Describe some Scenarios of Mining Centralization
+- [Bitcoin Mining Guide - Getting started with Bitcoin mining](https://www.bitcoinmining.com/getting-started/) Detailed the steps for bitcoin mining
+- [The State of Cryptocurrency Mining](https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b) An article about the whole mining industry. 
+- [Decoding the enigma of Bitcoin Mining — Part I : Mechanism](https://medium.com/all-things-ledger/decoding-the-enigma-of-bitcoin-mining-f8b2697bc4e2) An Introduction of Bitcoin Mining through PoW
+- [The Bitcoin Mining Network](https://coinshares.co.uk/wp-content/uploads/2018/11/Mining-Whitepaper-Final.pdf) A paper about mining Trends, Marginal Creation Cost, Electricity Consumption & Sources 
 - [An Honest Explanation of Price, Hashrate & Bitcoin Mining Network Dynamics](https://medium.com/coinshares/an-honest-explanation-of-price-hashrate-bitcoin-mining-network-dynamics-f820d6218bdf)
 - [Beware of Lazy Research: Let’s Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance](https://medium.com/coinshares/beware-of-lazy-research-c828c900b7d5)
 - [A Introduction of ethereum mining](http://ethdocs.org/en/latest/mining.html)
-- [Why Ethereum should adjust algo on next planned Hardfork? From a Miner’s perspective](https://medium.com/@bitsbetrippin/why-ethereum-should-adjust-algo-on-next-planned-hardfork-from-a-miners-perspective-aa0afeef05b9)Miner's influence on the hardfork.
+- [Why Ethereum should adjust algo on next planned Hardfork? From a Miner’s perspective](https://medium.com/@bitsbetrippin/why-ethereum-should-adjust-algo-on-next-planned-hardfork-from-a-miners-perspective-aa0afeef05b9) Miner's influence on the hardfork.
 
 ---
 
 Webside of Tools
 
-<https://www.blockchain.com/btc/block-height/420000>
-<https://btc.com/stats/pool?pool_mode=month3>
-<https://pool.bitcoin.com/en/>
+- [Explore](https://www.blockchain.com/explorer)
+- [Some pool suppliers](https://pool.bitcoin.com/en/)
 
 ---
 
