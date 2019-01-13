@@ -264,6 +264,12 @@ Articles
 - [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
 - [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html)
 
+- [Thoughts On Governance and Network Effects](https://blog.aragon.org/thoughts-on-governance-and-network-effects-f40fda3e3f98/)
+
+- [Against on-chain governance](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca)
+
+- [On Public and Private Blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/)
+
 ---
 
 <h3 id="17">Privacy</h3>
