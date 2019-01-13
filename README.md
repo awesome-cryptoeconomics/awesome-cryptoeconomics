@@ -235,6 +235,28 @@ Articles
 
 - [A beginner’s guide to Ethereum tokens](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b) This beginner’s guide should help those who are new to digital assets to understand Ethereum tokens at a high level and how they are different than Ethereum.
 
+- [Analyzing Token Sale Models](https://vitalik.ca/general/2017/06/09/sales.html)
+
+- [Tokenomics — A Business Guide to Token Usage, Utility and Value](https://medium.com/@wmougayar/tokenomics-a-business-guide-to-token-usage-utility-and-value-b19242053416)
+
+- [Cryptoasset Valuations](https://medium.com/@cburniske/cryptoasset-valuations-ac83479ffca7)
+
+- [UNDERSTANDING TOKEN VELOCITY](https://multicoin.capital/2017/12/08/understanding-token-velocity/)
+
+- [multi-dimensional tool for understanding and classifying crypto tokens](http://www.untitled-inc.com/the-token-classification-framework-a-multi-dimensional-tool-for-understanding-and-classifying-crypto-tokens/)
+
+- [The Quantity Theory of Money for Tokens
+](https://blog.coinfund.io/the-quantity-theory-of-money-for-tokens-dbfbc5472423)
+
+- [Token Engineering Case Studies](https://blog.oceanprotocol.com/token-engineering-case-studies-b44267e68f4)
+
+- [History Is Rhyming: Fitness Functions & Comparing Blockchain Tokens To The Web](https://hackernoon.com/history-is-rhyming-fitness-functions-comparing-blockchain-tokens-to-the-web-3c117239f4c)
+
+- [IN THE FUTURE, EVERYONE WILL HAVE THEIR OWN CRYPTOCURRENCY.](http://simondlr.com/post/70089813484/in-the-future-everyone-will-have-their-own)
+
+- [Does your dapp need a token?](https://medium.com/@simondlr/does-your-dapp-need-a-token-39412fd3c62c)
+
+
 - [The perfect token sale structure](https://blog.coinbase.com/the-perfect-token-sale-structure-63c169789491) It's about the perfect structure of the token sale
 
 - [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
