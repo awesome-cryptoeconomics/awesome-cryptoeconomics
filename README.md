@@ -227,11 +227,12 @@ Videos
 
 Brief
 
-- [The Token Economy](https://thecontrol.co/the-token-economy-81becd26b9de) Understanding the power of network ownership effects
-
+- 
 ---
 
 Articles
+
+- [The Token Economy](https://thecontrol.co/the-token-economy-81becd26b9de) Understanding the power of network ownership effects
 
 - [A beginner’s guide to Ethereum tokens](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b) This beginner’s guide should help those who are new to digital assets to understand Ethereum tokens at a high level and how they are different than Ethereum.
 
