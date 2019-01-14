@@ -78,6 +78,8 @@ Lessons
 
 Brief
 
+Peer-to-peer (P2P) computing or networking is a distributed application architecture that partitions tasks or workloads between peers. Peers are equally privileged, equipotent participants in the application.
+
 ---
 
 Tutorial
