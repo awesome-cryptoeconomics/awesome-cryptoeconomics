@@ -7,10 +7,9 @@
 
 What's Cryptoeconomics?
 
-
 Some of our friends say Cryptoeconomics approaches combine Cryptography and Economics, but it can not explain the entire of Cryptoeconomics. While we received too many infomations, that make us confused. So we attempt to build a project for arrange more knowlege in this area, we believe under the teamwork in the project, we can establish a clear and useful path for our beautiful Crypto future.
 
-Every sigle part in Cryptoeconomics is meaningful for our technology improvement. For example, without the asymmetric cryptography, we can't achieve a better P2P network. There's more possibilities waiting for our disclose, and here's how to participate in this Project.
+[How to Contribute](https://github.com/awesome-cryptoeconomics/awesome-cryptoeconomics/blob/master/CONTRIBUTING.md)
 
 --- 
 
@@ -36,8 +35,6 @@ To achieve a well-development crypto economy, we need lots of factor. And Crypto
 
 Thats the reason we always say: "Don't Trust, Verify"
 
----
-
 Articles
 
 - [Explaining public-key cryptography to non-geeks](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5)
@@ -52,8 +49,6 @@ Articles
 - [BLS signatures: better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [ECDSA is not that bad: two-party signing without Schnorr or BLS](https://medium.com/cryptoadvance/ecdsa-is-not-that-bad-two-party-signing-without-schnorr-or-bls-1941806ec36f)
 
----
-
 Videos
 
 - [Cryptography For Beginners](https://www.youtube.com/watch?v=cqgtdkURzTE)
@@ -64,24 +59,17 @@ Videos
 - [Cryptography for Cryptocurrency (covers Ethereum and Bitcoin)](https://www.youtube.com/watch?v=Fyqtl7eGQZY)
 - [Bitcoin - Cryptographic hash function](https://www.youtube.com/watch?v=0WiTaBI82Mc)
 
---- 
-
 Lessons
 
 - [crypto-textbook](http://www.crypto-textbook.com/)
 - [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
 
----
 
 ## P2P-Network 
-
---- 
 
 Brief
 
 Peer-to-peer (P2P) computing or networking is a distributed application architecture that partitions tasks or workloads between peers. Peers are equally privileged, equipotent participants in the application.
-
----
 
 Tutorial
 
@@ -90,8 +78,6 @@ Tutorial
 [Kazaa](https://en.wikipedia.org/wiki/Kazaa)
 [BitTorrent -- The Original BitTorrent Client](https://www.bittorrent.com/)
 
----
-
 Articles
 
 - [Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
@@ -99,8 +85,6 @@ Articles
 - [A Guide to Building Your First Decentralized Application](https://www.youtube.com/watch?v=gSQXq2_j-mw&t=3s)
 - [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 - [The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
- 
----
 
 Videos
 
@@ -109,7 +93,7 @@ Videos
 - [Lecture: P2P Networking in Bitcoin and tinybitcoinpeer.py](https://www.youtube.com/watch?v=seGwYw2u3TY)
 - [Peer-to-Peer Networking on Ethereum](https://www.youtube.com/watch?v=RA7wPpyUGJw)
 
---- 
+
 ## Consensus
 
 Brief
@@ -119,8 +103,6 @@ Before the blockchain technology, we use Byzantine fault tolerance (BFT) on dist
 One example of BFT in use is bitcoin, a peer-to-peer digital cash system. The bitcoin network works in parallel to generate a blockchain with proof-of-work allowing the system to overcome Byzantine failures and reach a coherent global view of the system's state.
 
 And that is the Consensus when we have a coherent global state in one system. There's more than one way to reach consensus, such like PoW/PoS/DPoS, no matter what kind of ways, we use encryption algorithm to protect the procedure.
-
----
 
 Articles
 
@@ -140,8 +122,6 @@ Understanding Blockchain Fundamentals
 - [Part 2: Proof of Work & Proof of Stake](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-2-proof-of-work-proof-of-stake-b6ae907c7edb)
 - [Part 3: Delegated Proof of Stake](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-3-delegated-proof-of-stake-b385a6b92ef)
 
---- 
-
 Videos
 
 - [Protocol and Consensus: A High Level Overview](https://www.youtube.com/watch?v=fgSvXFZ1GuU)
@@ -152,15 +132,12 @@ Videos
 - [Proof of Work vs Proof of Stake - Clearly Explained](https://www.youtube.com/watch?v=y_hEezRilCY)
 - [Proof of Work vs Proof of Stake - Explained for Beginners](https://www.youtube.com/watch?v=5x1X_mdo2mY)
 
----
 
 ## Mining
 
 Brief
 
 Bitcoin mining is accomplished by running SHA256 double round hash verification processes in order to validate Bitcoin transactions and provide the requisite security for the public ledger of the Bitcoin network. 
-
----
 
 Articles
 
@@ -175,14 +152,11 @@ Articles
 - [A Introduction of ethereum mining](http://ethdocs.org/en/latest/mining.html)
 - [Why Ethereum should adjust algo on next planned Hardfork? From a Miner’s perspective](https://medium.com/@bitsbetrippin/why-ethereum-should-adjust-algo-on-next-planned-hardfork-from-a-miners-perspective-aa0afeef05b9) Miner's influence on the hardfork.
 
----
 
 Webside of Tools
 
 - [Explore](https://www.blockchain.com/explorer)
 - [Some pool suppliers](https://pool.bitcoin.com/en/)
-
----
 
 Videos
 - [Blockchain Basics Explained - Hashes with Mining and Merkle trees](https://www.youtube.com/watch?v=lik9aaFIsl4)
@@ -194,15 +168,12 @@ Videos
 - [How to start Bitcoin mining for beginners (SUPER EASY) - ULTIMATE GUIDE](https://www.youtube.com/watch?v=lAW5fqkL-Fo)
 - [How Much Can You Make Mining Bitcoin With 6X 1080 Ti Beginners Guide](https://www.youtube.com/watch?v=woxKtAnmwEY)
 
----
 
-<h3 id="14">Blockchain</h3>
+## Blockchain
 
 Brief
 
 Blockchain provides an immutable & decentralized ledger.
-
----
 
 Articles
 
@@ -212,22 +183,17 @@ Articles
 - [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
 - [The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics](https://medium.com/cryptoeconomics-australia/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4)
 
----
-
 Videos
 
 - [Blockchain Technology Explained (2 Hour Course)](https://www.youtube.com/watch?v=qOVAbKKSH10)
 - [How does a blockchain work - Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 
 
----
 ## Token-Economics
 
 
 Brief
 
-- 
----
 
 Articles
 
@@ -248,21 +214,13 @@ Articles
 - [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
 - [Crypto Narrative Watch: Crypto Winter Edition](https://tokeneconomy.co/crypto-narrative-watch-crypto-winter-edition-bf1cf584def2) 
 
----
-
 Videos
 
 - [Token Economies](https://www.youtube.com/watch?v=XatEoU36U-o) Explained the workings of the blockchain, tokens, distributed markets and token investments.
 
-<h3 id="16">Governance</h3>
-
----
+## Governance
 
 Brief
-
----
-
-Tutorial
 
 ---
 
@@ -274,7 +232,6 @@ Articles
 - [Against on-chain governance](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca)
 - [On Public and Private Blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/)
 
----
 
 ## Privacy-and-Security
 
@@ -282,7 +239,6 @@ Brief
 
 Privacy and security in an open society.
 
----
 
 Tutorial
 
@@ -290,8 +246,6 @@ Tutorial
 - [STARKs, Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
 - [STARKs, Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
 - [Engineering Security Through Coordination Problems](https://vitalik.ca/general/2017/05/08/coordination_problems.html)
-
----
 
 Articles
 
@@ -303,7 +257,7 @@ Articles
 - [How to secure your digital currency](https://blog.coinbase.com/how-to-secure-your-digital-currency-4f63539837d0)
 - [Ethereum: Signing and Validating](https://medium.com/@angellopozo/ethereum-signing-and-validating-13a2d7cb0ee3)
 - [Keepers: workers that maintain blockchain networks](https://a16z.com/2018/02/10/crypto-readings-resources/)
----
+
 
 ## Adoption
 
