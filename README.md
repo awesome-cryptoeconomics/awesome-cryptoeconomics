@@ -21,9 +21,9 @@ Every sigle part in Cryptoeconomics is meaningful for our technology improvement
 - [Consensus](#Consensus)
 - [Mining](#Mining) 
 - [Blockchain](#Blockchain)  
-- [Token Economics](#Token Economics)  
+- [Token-Economics](#Token-Economics)  
 - [Governance](#Governance)  
-- [Privacy and Security](#Privacy and Security)
+- [Privacy-and-Security](#Privacy-and-Security)
 - [Adoption](#Adoption)
 
 
@@ -221,7 +221,7 @@ Videos
 
 
 ---
-## Token Economics
+## Token-Economics
 
 
 Brief
@@ -276,7 +276,7 @@ Articles
 
 ---
 
-## Privacy and Security
+## Privacy-and-Security
 
 Brief
 
