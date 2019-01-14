@@ -16,20 +16,19 @@ Every sigle part in Cryptoeconomics is meaningful for our technology improvement
 
 # List Components of Cryptoeconomics
 
-- [Cryptography](#11)
-- [P2P-Network](#12)
-- [Consensus](#13)
-- [Mining](#19) 
-- [Blockchain](#14)  
-- [Token Economics](#15)  
-- [Governance](#16)  
-- [Privacy and Security](#17)
-- [Adoption](#20)
+- [Cryptography](#Cryptography)
+- [P2P-Network](#P2P-Network)
+- [Consensus](#Consensus)
+- [Mining](#Mining) 
+- [Blockchain](#Blockchain)  
+- [Token Economics](#Token Economics)  
+- [Governance](#Governance)  
+- [Privacy and Security](#Privacy and Security)
+- [Adoption](#Adoption)
 
 
 --- 
-
-<h3 id="11">Cryptography</h3>
+## Cryptography
 
 Brief
 
@@ -74,7 +73,7 @@ Lessons
 
 ---
 
-<h3 id="12">P2P-Network</h3>
+## P2P-Network 
 
 --- 
 
@@ -111,8 +110,7 @@ Videos
 - [Peer-to-Peer Networking on Ethereum](https://www.youtube.com/watch?v=RA7wPpyUGJw)
 
 --- 
-
-<h3 id="13">Consensus</h3>
+## Consensus
 
 Brief
 
@@ -156,7 +154,7 @@ Videos
 
 ---
 
-<h3 id="19">Mining</h3>
+## Mining
 
 Brief
 
@@ -223,10 +221,8 @@ Videos
 
 
 ---
+## Token Economics
 
-<h3 id="15">Token Economics</h3>
-
----
 
 Brief
 
@@ -280,7 +276,7 @@ Articles
 
 ---
 
-<h3 id="17">Privacy and Security</h3>
+## Privacy and Security
 
 Brief
 
@@ -309,7 +305,7 @@ Articles
 - [Keepers: workers that maintain blockchain networks](https://a16z.com/2018/02/10/crypto-readings-resources/)
 ---
 
-<h3 id="20">Adoption</h3>
+## Adoption
 
 Brief
 
@@ -334,11 +330,9 @@ Adoption
 
 
 
+## License
 
-
---- 
-
-
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
 
