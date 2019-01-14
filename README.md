@@ -3,7 +3,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Welcome Aboard the Crypto World**
+## Welcome Aboard the Crypto World
 
 What's Cryptoeconomics?
 
@@ -24,6 +24,8 @@ Some of our friends say Cryptoeconomics approaches combine Cryptography and Econ
 - [Adoption](#Adoption)
 
 ---
+
+
 
 ## Cryptography
 
@@ -133,10 +135,6 @@ Videos
 
 ## Mining
 
-Brief
-
-Bitcoin mining is accomplished by running SHA256 double round hash verification processes in order to validate Bitcoin transactions and provide the requisite security for the public ledger of the Bitcoin network. 
-
 Articles
 
 - [What is Bitcoin Mining?](https://www.weusecoins.com/en/mining-guide/) A basic article introducing Bitcoin Mining with video and pictures.
@@ -189,10 +187,6 @@ Videos
 
 ## Token-Economics
 
-
-Brief
-
-
 Articles
 
 - [The Token Economy](https://thecontrol.co/the-token-economy-81becd26b9de) Understanding the power of network ownership effects
@@ -218,9 +212,6 @@ Videos
 
 ## Governance
 
-Brief
-
-
 Articles
 
 - [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
@@ -232,32 +223,36 @@ Articles
 
 ## Privacy
 
-Brief
-
-
-
-
-Tutorial
-
-- [Understanding Crypto-Economic Security through Game Theory](https://blockchainatberkeley.blog/understanding-crypto-economic-security-through-game-theory-526e810c7736)
-- [STARKs, Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
-- [STARKs, Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
-- [Engineering Security Through Coordination Problems](https://vitalik.ca/general/2017/05/08/coordination_problems.html)
-
 Articles
 
 - [Privacy on the blockchain by Vitalik Buterin](https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/)
 - [Privacy on the blockchain](https://hackernoon.com/privacy-on-the-blockchain-7549b50160ec)
 - [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
-- [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
 - [A brief history of Bitcoin hacks and frauds](https://arstechnica.com/tech-policy/2017/12/a-brief-history-of-bitcoin-hacks-and-frauds/)
-- [How to secure your digital currency](https://blog.coinbase.com/how-to-secure-your-digital-currency-4f63539837d0)
 - [Ethereum: Signing and Validating](https://medium.com/@angellopozo/ethereum-signing-and-validating-13a2d7cb0ee3)
-- [Keepers: workers that maintain blockchain networks](https://a16z.com/2018/02/10/crypto-readings-resources/)
+
 
 ## Security
 
-Brief
+attack
+- [Crypto51](https://www.crypto51.app/)
+- [51% Attack Calculator: New Site Exposes Major Weaknesses in Small Coins, Shocks Community](https://blockonomi.com/51-attack-calculator/)
+- [Blockchain: how a 51% attack works](https://medium.com/coinmonks/what-is-a-51-attack-or-double-spend-attack-aa108db63474)
+https://blog.peckshield.com/blog.html
+- [How the winner got Fomo3D prize — A Detailed Explanation](https://medium.com/coinmonks/how-the-winner-got-fomo3d-prize-a-detailed-explanation-b30a69b7813f)
+
+
+articles
+
+- [MEDIA Protocol And Blockchain Security — Part 1-8](https://medium.com/@mediaprotocolsm/media-protocol-and-blockchain-security-part-1-31b42de2bf07)
+- [Blockchain Security Mechanisms](https://towardsdatascience.com/mechanisms-securing-blockchain-data-9e762513ae28)
+- [Engineering Security Through Coordination Problems](https://vitalik.ca/general/2017/05/08/coordination_problems.html)
+- [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
+- [Understanding Crypto-Economic Security through Game Theory](https://blockchainatberkeley.blog/understanding-crypto-economic-security-through-game-theory-526e810c7736)
+- [How to secure your digital currency](https://blog.coinbase.com/how-to-secure-your-digital-currency-4f63539837d0)
+- [STARKs, Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
+- [STARKs, Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
+- [PeckShield Blog](https://blog.peckshield.com/blog.html)
 
 
 ## Adoption
