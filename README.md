@@ -14,7 +14,7 @@ Every sigle part in Cryptoeconomics is meaningful for our technology improvement
 
 --- 
 
-# All about the Crypto Future
+# All about the Cryptoeconomics
 
 - [Cryptography](#11)
 - [P2P-Network](#12)
