@@ -19,7 +19,8 @@ Some of our friends say Cryptoeconomics approaches combine Cryptography and Econ
 - [Blockchain](#Blockchain)  
 - [Token-Economics](#Token-Economics)  
 - [Governance](#Governance)  
-- [Privacy-and-Security](#Privacy-and-Security)
+- [Privacy](#Privacy)
+- [Security](#Security)
 - [Adoption](#Adoption)
 
 ---
@@ -219,7 +220,6 @@ Videos
 
 Brief
 
----
 
 Articles
 
@@ -230,11 +230,11 @@ Articles
 - [On Public and Private Blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/)
 
 
-## Privacy-and-Security
+## Privacy
 
 Brief
 
-Privacy and security in an open society.
+
 
 
 Tutorial
@@ -254,6 +254,10 @@ Articles
 - [How to secure your digital currency](https://blog.coinbase.com/how-to-secure-your-digital-currency-4f63539837d0)
 - [Ethereum: Signing and Validating](https://medium.com/@angellopozo/ethereum-signing-and-validating-13a2d7cb0ee3)
 - [Keepers: workers that maintain blockchain networks](https://a16z.com/2018/02/10/crypto-readings-resources/)
+
+## Security
+
+Brief
 
 
 ## Adoption
