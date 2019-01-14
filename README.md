@@ -21,8 +21,7 @@ Every sigle part in Cryptoeconomics is meaningful for our technology improvement
 - [Blockchain](#14)  
 - [Token Economics](#15)  
 - [Governance](#16)  
-- [Privacy](#17)
-- [Security](#18)
+- [Privacy and Security](#17)
 - [Adoption](#20)
 
 
@@ -266,38 +265,13 @@ Articles
 
 ---
 
-<h3 id="17">Privacy</h3>
+<h3 id="17">Privacy and Security</h3>
 
 ---
 
 Brief
 
-Privacy in an open society requires anonymous transaction systems.
-
----
-
-Tutorial
-
----
-
-Articles
-
-- [Privacy on the blockchain by Vitalik Buterin](https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/)
-
-- [Privacy on the blockchain](https://hackernoon.com/privacy-on-the-blockchain-7549b50160ec)
-
-- [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
-
-- [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
-
-
----
-
-<h3 id="18">Security</h3>
-
----
-
-Brief
+Privacy and security in an open society.
 
 ---
 
@@ -312,12 +286,13 @@ Tutorial
 
 Articles
 
+- [Privacy on the blockchain by Vitalik Buterin](https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/)
+- [Privacy on the blockchain](https://hackernoon.com/privacy-on-the-blockchain-7549b50160ec)
+- [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
+- [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
 - [A brief history of Bitcoin hacks and frauds](https://arstechnica.com/tech-policy/2017/12/a-brief-history-of-bitcoin-hacks-and-frauds/)
-
 - [How to secure your digital currency](https://blog.coinbase.com/how-to-secure-your-digital-currency-4f63539837d0)
-
 - [Ethereum: Signing and Validating](https://medium.com/@angellopozo/ethereum-signing-and-validating-13a2d7cb0ee3)
-
 - [Keepers: workers that maintain blockchain networks](https://a16z.com/2018/02/10/crypto-readings-resources/)
 ---
 
