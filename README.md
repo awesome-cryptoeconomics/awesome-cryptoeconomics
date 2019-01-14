@@ -7,11 +7,8 @@
 
 What's Cryptoeconomics?
 
-Some of our friends say Cryptoeconomics approaches combine Cryptography and Economics, but it can not explain the entire of Cryptoeconomics. While we received too many infomations, that make us confused. So we attempt to build a project for arrange more knowlege in this area, we believe under the teamwork in the project, we can establish a clear and useful path for our beautiful Crypto future.
+Some of our friends say Cryptoeconomics approaches combine Cryptography and Economics, but it can not explain the entire of Cryptoeconomics. While we received too many infomations, that make us confused. So we attempt to build a project for organize more knowlege in this area, we believe under the teamwork in this project, we can establish a clear and useful path for our beautiful Crypto future. And here's [How to Contribute.](https://github.com/awesome-cryptoeconomics/awesome-cryptoeconomics/blob/master/CONTRIBUTING.md)
 
-[How to Contribute](https://github.com/awesome-cryptoeconomics/awesome-cryptoeconomics/blob/master/CONTRIBUTING.md)
-
---- 
 
 # List Components of Cryptoeconomics
 
@@ -25,8 +22,8 @@ Some of our friends say Cryptoeconomics approaches combine Cryptography and Econ
 - [Privacy-and-Security](#Privacy-and-Security)
 - [Adoption](#Adoption)
 
+---
 
---- 
 ## Cryptography
 
 Brief
