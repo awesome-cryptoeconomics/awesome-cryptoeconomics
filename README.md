@@ -71,15 +71,12 @@ Brief
 
 Peer-to-peer (P2P) computing or networking is a distributed application architecture that partitions tasks or workloads between peers. Peers are equally privileged, equipotent participants in the application.
 
-Tutorial
-
-[Peer to peer](https://en.wikipedia.org/wiki/Peer-to-peer)  
-[Distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
-[Kazaa](https://en.wikipedia.org/wiki/Kazaa)
-[BitTorrent -- The Original BitTorrent Client](https://www.bittorrent.com/)
-
 Articles
 
+- [Peer to peer](https://en.wikipedia.org/wiki/Peer-to-peer)
+- [Distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
+- [Kazaa](https://en.wikipedia.org/wiki/Kazaa)
+- [BitTorrent -- The Original BitTorrent Client](https://www.bittorrent.com/)
 - [Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
 - [Why Decentralization Matter](https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e)
 - [A Guide to Building Your First Decentralized Application](https://www.youtube.com/watch?v=gSQXq2_j-mw&t=3s)
@@ -148,8 +145,7 @@ Articles
 - [A Introduction of ethereum mining](http://ethdocs.org/en/latest/mining.html)
 - [Why Ethereum should adjust algo on next planned Hardfork? From a Miner’s perspective](https://medium.com/@bitsbetrippin/why-ethereum-should-adjust-algo-on-next-planned-hardfork-from-a-miners-perspective-aa0afeef05b9) Miner's influence on the hardfork.
 
-
-Webside of Tools
+Website of Tools
 
 - [Explore](https://www.blockchain.com/explorer)
 - [Some pool suppliers](https://pool.bitcoin.com/en/)
