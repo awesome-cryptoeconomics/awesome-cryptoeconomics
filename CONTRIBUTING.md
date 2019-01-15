@@ -15,6 +15,16 @@ If you want to add an entry to the `README.md` please consider this:
 - if you want to add something, please use the template `[XXX/YYY](https://github.com/XXX/YYY) [[YYY](https://crates.io/crates/YYY)] — DESCRIPTION [<img src="https://api.travis-ci.org/XXX/YYY.svg?branch=master">](https://travis-ci.org/XXX/YYY)`
 - please pay attention to the alphabetical ordering.
 
+# Category
+
+You can add any good content into the follows category(Anti-ad), and if you want to add a component, please launch an issue, thanks again.
+
+- brief
+- Articles
+- video
+- lessons
+- adoption
+
 
 > this page is copy from [awesome-rust](https://github.com/rust-unofficial/awesome-rust), thank you awesome-rust.
 
