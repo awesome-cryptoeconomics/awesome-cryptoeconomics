@@ -17,7 +17,7 @@ If you want to add an entry to the `README.md` please consider this:
 
 # Category
 
-You can add any good content into the follows category(Anti-ad), and if you want to add a component, please launch an issue, thanks again.
+There's 5 categories in 1 component, You can add any good contents into the follows category(Anti-ad), and if you want to add a component, please launch an issue, thanks again.
 
 - brief
 - Articles
