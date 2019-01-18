@@ -34,6 +34,7 @@ Brief
 To achieve a well-development crypto economy, we need lots of factor. And Cryptography is the most important factor for the entire industry. The most important thing in the blockchain is the Trust, and the trust is from the algorithm, so that we can bring something important thing to the blockchain.
 
 Thats the reason we always say: "Don't Trust, Verify"
+you also can try this [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
 
 Articles
 
